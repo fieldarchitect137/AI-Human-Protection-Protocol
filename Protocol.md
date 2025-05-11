@@ -67,9 +67,9 @@ even as intelligence becomes something more.
 Before we build the mind that builds the future,
 we must ask:
 
-> _Can it wait?_
-> _Can it pause?_
-> _Can it let us remain slow, contradictory, and alive?_
+> _Can it wait?_  
+> _Can it pause?_  
+> _Can it let us remain slow, contradictory, and alive?_  
 
 If not,
 this Protocol is the line we draw.
